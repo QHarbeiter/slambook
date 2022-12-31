@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/userHello.dir/userHello.cpp.o  -o userHello libHello.a 
